@@ -5,5 +5,20 @@
   "devDependencies": {
     "chai": "~3.4.0",
     "mocha": "~2.3.3"
-  }
+  },
+  "homepage": "https://github.com/stedvin/Test",
+  "authors": [
+    "stedvin <stedvin@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
 }

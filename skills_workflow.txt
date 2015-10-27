@@ -16,3 +16,11 @@ Install
   5. Sudo yo
 
   6. grunt server   
+
+  7. grunt build  // minifying
+
+
+  ------
+  BOWER
+  ------
+  
