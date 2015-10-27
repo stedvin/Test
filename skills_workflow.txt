@@ -1,0 +1,18 @@
+Install
+  node -v			// check node
+
+  1. sudo npm install -g yo			// global yo install
+     sudo npm install -g generator-webapp	// global webapp generator
+     sudo npm install -g grunt-cli		// global grunt install
+
+  2. Go to your project directory
+
+  3. Prepare for yo global install
+  // permission to install globally
+  sudo chown YOUR_USER -R /usr/lib/node_modules
+
+  4. Go to your own project folder
+  
+  5. Sudo yo
+
+  6. grunt server   
